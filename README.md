@@ -1,4 +1,4 @@
-Cyanogenmod 13.0 Device Tree for Huawei Honor 4C/4X (Kirin, Non-Chinese models)
+Cyanogenmod 13.0 for Huawei Honor 4C/4x
 =====================================
 
 Basic   | Spec Sheet
